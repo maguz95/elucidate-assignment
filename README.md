@@ -1,24 +1,24 @@
-# elucidate-assignment
+# capdesk-assignment
 
-## Project setup
-```
-yarn install
-```
+## Requirements
+To install the dependencies and run this project it is required `node >=16.0.0`.
+## Project setup and local run
+1. Unzip the project
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+2. Go to the project directory
 
-### Compiles and minifies for production
-```
-yarn build
+```bash
+  cd realtainment-assignment
 ```
 
-### Lints and fixes files
-```
-yarn lint
+3. Install dependencies
+
+```bash
+  yarn install
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4. Start the server
+
+```bash
+  yarn serve
+```
