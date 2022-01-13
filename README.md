@@ -1,4 +1,4 @@
-# elicidate-assignment
+# elucidate-assignment
 
 ## Requirements
 To install the dependencies and run this project it is required `node >=16.0.0`.
